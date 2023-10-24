@@ -9,5 +9,5 @@ function mathReverseNumber(input){
     
         return outputReversed;
      }
- console.log(mathReverseNumber(9123485))
+ console.log(mathReverseNumber(123))
     
