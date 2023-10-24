@@ -1,0 +1,60 @@
+#prvi {
+    background-color: #00ced1;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+#drugi {
+color: #00ced1;
+background-color: rgba(0, 206, 209,);
+font-family: Arial, Helvetica, sans-serif;
+}
+#treci {
+    color: #00ced1;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#slika {
+    opacity: 0.5;
+    background-color:  rgba(255, 99 , 71, 1);
+}
+#slika2 {
+    color: rgba(255, 99 , 71, 0.5);
+}
+#div {
+    background-color: rgba(255, 99 , 71, 0.5);;
+}
+table {
+    width: 100%;
+    height: 200px;
+
+}
+
+#col1 {
+    background-color: #f0f8ff;
+}
+#col2 {
+    background-color: #ff69b4
+}
+ #col4 {
+    background-color: violet;
+ }
+ #col3 {
+    background-color: black;
+ }
+
+ #font {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-size: larger xx-large; 
+
+ }
+ .slova {
+    background-color: #f0f8ff;
+    font-size: large;
+ }
+
+p{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+
+}

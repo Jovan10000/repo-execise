@@ -1,0 +1,36 @@
+
+
+p {
+    letter-spacing: 5px;
+    text-align: left;
+}
+
+#p1 {
+height: 200%;
+text-align: right;
+}
+.p3 {
+text-align: center;
+}
+.linklist {
+    list-style: none;
+    padding: 0;
+}
+/* .linklist a {
+    text-decoration: none;
+    color: #333;
+    text-shadow: 2px 2px 4px;
+} */
+ a:hover {
+    color: green;
+ }
+ p{
+    color: red;
+ }
+ p:hover{
+    color: blue;
+ }
+/* } */
+/* .linklist a:active {
+    color: blue;
+} */
