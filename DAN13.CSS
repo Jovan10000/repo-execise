@@ -1,0 +1,37 @@
+.form {
+    background-color: whitesmoke;
+    width: 250px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 1rem;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+
+}
+.h1 {
+    color: blue;
+    text-align: center;
+    
+}
+.span {
+    color: orangered;
+}
+.submit {
+    margin-top: 20px;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    
+}
+input, label {
+    display: block;
+    border-radius: 6px;
+    width: 100%;
+    margin: 1px;
+    
+}
+
+input {
+    margin-bottom: 7px;
+}

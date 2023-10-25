@@ -1,0 +1,53 @@
+.first-ul {
+    list-style-type: circle;
+}
+.second-ul {
+    list-style-type: square;
+}
+.first-ol {
+    list-style-type: upper-alpha;
+}
+
+.first-ol {
+    list-style-type: upper-roman;
+}
+.third, .forth {
+    width: 200px;
+}
+
+.third-ul, .forth-ul {
+    list-style-image: url("https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-spray-can-containers-outline-outline-black-m-oki-orlando.png");
+    list-style-position: inside;
+}
+.tabble {
+    border: solid 2px;
+    margin: auto;
+}
+th {
+    background-color: red;
+}
+th , td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+tr:nth-child(2n){
+background-color: yellow;
+}
+tr:nth-child(2n+1){
+    background-color: aqua;
+}
+tr:hover {
+    background-color: orange;
+}
+.tr1 {
+    background-color: white;
+}
+.tr2 {
+    background-color: whitesmoke;
+}
+table {
+    max-height: 500px;
+}
+.tr1, .tr2, .tr3, .tr4, .tr5 {
+    ma
+}
